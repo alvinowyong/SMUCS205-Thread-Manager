@@ -11,7 +11,7 @@ $ javac *.java
 
 To execute program
 ```bash
-$ java FoodManager
+$ java FoodManager N M K W X Y Z
 ```
 
 ### List of Parameters
